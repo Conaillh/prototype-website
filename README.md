@@ -1,4 +1,4 @@
 Pototype Website
 ================
 
-The Best Prototype Website Ever 
+The Best Website Prototype Ever
